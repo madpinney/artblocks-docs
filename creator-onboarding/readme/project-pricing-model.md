@@ -10,7 +10,7 @@ Dutch Auction settings are based on the project collection type (Curated vs. Pre
 
 Art Blocks recommends using exponential decay with these values for no longer than an hour. We will monitor market conditions and adjust these values as needed over time. If you'd like to explore a project size of less than 100, alternate sales mechanics, or have an established sales history outside of these parameters, please speak with Art Blocks’ Art Team for a specialized recommendation.
 
-![Price Model (3_1_23)](https://user-images.githubusercontent.com/103667291/222780821-45d8acfc-1b16-4a8e-8cbc-5758b6d0d98e.jpg)
+<img width="764" alt="price model 20230424" src="https://user-images.githubusercontent.com/103667291/234131963-879c0163-dbd6-4269-a92d-3f87c6e49218.png">
 
 
 # Price Reductions
