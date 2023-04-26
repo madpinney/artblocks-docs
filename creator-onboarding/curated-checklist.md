@@ -81,7 +81,8 @@ Pre-Drop Talks happen on Twitter Spaces 15 minutes prior to the release of your 
 ## Unpausing
 
 - When it's time, you'll click the Unpause button under the Danger tab.
-- When unpausing the project, please send in the tx 30 seconds prior to the top of the hour. To unpause the project, please send high gas (2-3x what is suggested as high gas on https://etherscan.io/gastracker). If you have questions about what you should set your gas to, please ask in your project DM and the Art Blocks Team can advise.
+- For Dutch auction releases, you may unpause your project 24 hours in advance of the sale.
+- For fixed price sales, please send in the tx 30 seconds prior to the top of the hour. To unpause the project, please send high gas (2-3x what is suggested as high gas on https://etherscan.io/gastracker). If you have questions about what you should set your gas to, please ask in your project DM and the Art Blocks Team can advise.
 - Once the transaction clears, your project will be live for minting.
 
 ## Rarities
