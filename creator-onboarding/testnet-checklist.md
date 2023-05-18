@@ -40,9 +40,9 @@ Note: For your Art Blocks application, please connect with a hot wallet. Hardwar
 
 <img width="1902" alt="02_minting" src="https://user-images.githubusercontent.com/103667291/214971934-1c738de5-a208-40c0-9698-8a811d45e155.png">
 
-3. Above `Additional details` you will find the button that says `UPCOMING`. By pressing this button, you can mint outputs without unpausing your project. 
+3. Above `Additional details` you will find the button that says `Mint`. By pressing this button, you can mint outputs without unpausing your project. 
 
-<img width="1866" alt="03_minting" src="https://user-images.githubusercontent.com/103667291/214972116-80a024f0-257c-4c37-a99b-597e732b7bf0.png">
+<img width="1425" alt="Screenshot 2023-05-18 at 3 08 31 PM" src="https://github.com/ArtBlocks/artblocks-docs/assets/103667291/9f467cd6-f858-4e26-9695-298c8fddc2a5">
 
 4. Press `PURCHASE`.
 
