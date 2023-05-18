@@ -319,13 +319,15 @@ When it is time for your project to go live, you will press the “Unpause” bu
 
 ## On Tokens
 
-### Refresh Token Image
+### Refresh Token Images
 
 This button will queue your token thumbnail to be refreshed. The refresh takes time to process fully. If a script update was successful, and `live views` are correct, but thumbnails haven’t refreshed, please clear your cache. If you have cleared your cache and are still not seeing the correct thumbnail view,a subgraph delay may be the reason. Stay updated on system operations at [status.artblocks.io] (status.artblocks.io).
 
 Rendering tokens does take computing power, of which we have a limited amount. Please feel free to refresh tokens after making updates, but note that if our rendering pipeline starts clogging up requests, we may have to consider rate-limiting refresh requests. In summary, use this button when testing out updates, but avoid spamming, or things will get jammed up.
 
-With this button, you can refresh per token. The Art BlocksTeam has the power to refresh all thumbnails in a project at once, and we are happy to do so for you. Request a batch refresh after updating your script in your artist DM. If you are still in the application queue, you may request a batch refresh in the #artist-application-support channel in Discord.
+You can batch refresh all tokens in the `token` tab by clicking the `refresh all project images` button, artists can refresh all tokens and token images once per day. If you have reached the bulk refresh limit, you may refresh tokens individually. 
+
+
 
 ### Details
 
