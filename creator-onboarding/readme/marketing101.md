@@ -49,6 +49,21 @@ A subset of “After Dinner Mints” that happens bi-monthly and features artist
 
 One benefit of releasing on Art Blocks is that you are now entering a vibrant ecosystem of generative art experts and enthusiasts. Our main piece of advice for promoting your work/artist profile is to participate in the community. If you have been selected to release on our platform, your work is strong and valuable, no matter the curatorial status. 
 
+### Artbot 
+
+Artbot is a tool that can be used on both Twitter and Discord to call specific mints from Art Blocks releases. This tool can be used to garner interest or show new mints to your project release. 
+
+All #? functionalities
+#? = Random project, random token
+#? [project name] = Random token from project
+#[token number] [project name] = Specific token from project
+#? [artist name] = Random token from artist
+#? [vertical] = Random token from vertical (e.g. Curated, Explorations, Presents, Engine, Collaborations, etc)
+#? [tag] = Random token from tag (e.g. Audio, Interactive, Animated, etc)
+#? [wallet or ENS] = Random token from wallet
+#? [wallet or ENS] [project name / artist / vertical / tag] = Random token from wallet with criteria described above
+#? open = Random token from an open (still minting) collection
+
 ### Art Blocks Discord Server
 
 **#artist-general, #artist-tech, #artist-project-feedback**
